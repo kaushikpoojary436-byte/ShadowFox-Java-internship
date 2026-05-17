@@ -11,8 +11,8 @@
 
 ### Screenshot
 
-![Calculator](Task1-Calculator/screenshots/Screenshot 2026-05-17.png)
----
+![Calculator](Task1-Calculator/screenshots/Screenshot 2026-05-16 074726.png)
+![Calculator](Task1-Calculator/screenshots/Screenshot 2026-05-16 075240.png)
 
 ## Task 2 - Contact Manager
 
@@ -24,7 +24,9 @@
 
 ### Screenshot
 
-![Contacts](Task2-Contacts/screenshots/Screenshot 2026-05-17.png)
+![Contacts](Task2-Contacts/screenshots/Screenshot 2026-05-17 092150.png)
+![Contacts](Task2-Contacts/screenshots/Screenshot 2026-05-17 092437.png)
+
 
 ---
 
